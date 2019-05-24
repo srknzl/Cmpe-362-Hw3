@@ -26,4 +26,4 @@ three_k_filter_peaks_size = size(pks3);
 pks4 = findpeaks(y4);
 four_k_filter_peaks_size = size(pks4);
 
-plot([0 1 2 3 4],[no_filter_peaks_size(1) one_k_filter_peaks_size(1) two_k_filter_peaks_size(1) three_k_filter_peaks_size(1) four_k_filter_peaks_size(1)]);
+plot([04],[no_filter_peaks_size(1) one_k_filter_peaks_size(1) two_k_filter_peaks_size(1) three_k_filter_peaks_size(1) four_k_filter_peaks_size(1)]);
